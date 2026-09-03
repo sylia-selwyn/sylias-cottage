@@ -11,6 +11,7 @@
   setHref("discordLink", links.discord);
   setHref("tipsyLink", links.tipsy);
   setHref("youtubeLink", links.youtube);
+  setHref("sunoLink", links.suno);
   setHref("ledgerTopLink", ledger.pageUrl || "bot-ledger.html");
   setHref("openLedger", ledger.pageUrl || "bot-ledger.html");
 

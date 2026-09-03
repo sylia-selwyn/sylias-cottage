@@ -10,7 +10,8 @@ window.SYLIA_SITE = {
   links: {
     discord: "https://discord.gg/mUpmzAUXRK",
     tipsy: "https://tipsy.chat/profile/1772922250908843841?tab=Characters",
-    youtube: "https://www.youtube.com/channel/UC1XHCKAry81lm6rTPPmYl3g"
+    youtube: "https://www.youtube.com/channel/UC1XHCKAry81lm6rTPPmYl3g",
+    suno: "https://suno.com/@sylia_selwyn"
   },
 
   ledger: {
