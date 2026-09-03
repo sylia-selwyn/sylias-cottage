@@ -93,8 +93,11 @@ img,video{max-width:100%}
   position:relative;overflow:hidden;border-radius:30px;
   border:1px solid var(--line2);
   background:#09050b;box-shadow:var(--shadow);
+  aspect-ratio:1504 / 550;
 }
-.banner-frame video,.banner-frame .gif-fallback{display:block;width:100%;height:auto}
+.banner-frame video,.banner-frame .gif-fallback{
+  display:block;width:100%;height:auto;
+}
 .banner-badge{
   position:absolute;right:15px;top:15px;z-index:4;
   padding:7px 10px;border-radius:999px;
